@@ -12,7 +12,7 @@ Remarks: only work for small size (<=8) due to large computational complexity O(
 |number of city (N)|total distance|
 |:-----:|:-----:|
 |5|__3291.62__|
-|8|__3778.71__|
+|8|__3778.72__|
 
 ***
 ### Solver 2: solverGreedy
