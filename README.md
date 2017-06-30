@@ -2,7 +2,7 @@
 
 ### Travelling Salseman Problem (TSP)  
 Please refer to [this page](https://github.com/LingyingWu/google-step-tsp) for more detail about the problem.  
-Solution program: [TravellingSalesmanProblem.java](https://github.com/LingyingWu/google-step-tsp/blob/gh-pages/TravellingSalesmanProblem.java)
+Solution program: [TravellingSalesmanProblem.java](https://github.com/LingyingWu/google-step-tsp/blob/gh-pages/TravellingSalesmanProblem.java), [City.java](https://github.com/LingyingWu/google-step-tsp/blob/gh-pages/City.java)
 
 ***
 ### Solver 1: solverBrute  
