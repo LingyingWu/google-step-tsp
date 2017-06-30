@@ -1,6 +1,8 @@
 # Description of solution programs
 
-program: [TravellingSalesmanProblem.java](https://github.com/LingyingWu/google-step-tsp/blob/gh-pages/TravellingSalesmanProblem.java)
+### Travelling Salseman Problem (TSP)  
+Please refer to [this page](https://github.com/LingyingWu/google-step-tsp) for more detail about the problem.  
+Solution program: [TravellingSalesmanProblem.java](https://github.com/LingyingWu/google-step-tsp/blob/gh-pages/TravellingSalesmanProblem.java)
 
 ***
 ### Solver 1: solverBrute  
