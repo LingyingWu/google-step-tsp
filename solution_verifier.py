@@ -15,10 +15,10 @@ def verify_solutions():
     solutions = ('random', 'greedy', 'sa', 'yours')
     for challenge_number in range(CHALLENGES):
         print('Challenge {}'.format(challenge_number))
-        cities = read_input('input_{}.csv'.format(challenge_number))
+        cities = read_input('input/{}.csv'.format(challenge_number))
         N = len(cities)
         for solution_name in solutions:
-            solution_file = 'solution_{}_{}.csv'.format(solution_name,
+            solution_file = 'solution_{}/{}.csv'.format(solution_name,
                                                         challenge_number)
             with open(solution_file) as f:
                 lines = f.readlines()
