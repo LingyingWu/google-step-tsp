@@ -40,7 +40,7 @@ Idea: similar to Solver 2, but starting with the shortest path
 |64|10663.23|
 |512|12858.61|
 |1028|25759.40|
-|2048|48870.85|
+|2048|__48870.85__|
 
 ***
 ### Solver 4: solverTwoOpt
@@ -59,7 +59,7 @@ Algorithm:
 |16|4994.89|
 |64|9326.92|
 |512|11637.48|
-|1028|21980.58|
+|1028|__21980.58__|
 |2048|runtime too long|
 
 ***
